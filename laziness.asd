@@ -1,10 +1,10 @@
 ;;;; laziness.asd
 
 (asdf:defsystem #:laziness
-  :description "Describe laziness here"
-  :author "Your Name <your.name@example.com>"
-  :license  "Specify license here"
-  :version "0.0.1"
+  :description "Lazy lists implementation"
+  :author "Andrew <aun.sokolov@gmail.com>"
+  :license  "GNU 3.0"
+  :version "0.5"
   :serial t
   :components ((:file "package")
                (:file "laziness")))
