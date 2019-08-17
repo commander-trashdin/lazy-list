@@ -12,6 +12,10 @@
            #:replicate
            #:take
            #:take-while
+           #:drop
+           #:drop-while
+           #:iterate
+           #:cycle
            #:lazy-nth
            #:filter
            #:concat
